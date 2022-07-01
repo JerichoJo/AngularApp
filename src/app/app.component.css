@@ -1,0 +1,12 @@
+h3 {
+    color: darkblue
+}
+app-servers {
+    color: brown;
+}
+app-warning-alert {
+    color: coral;
+}
+app-success-alert {
+    color:yellow
+}
